@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IssacCohen
 - 👀 I’m interested in Hunting
-- 🌱 I’m currently in it learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently in IT learning 
 - 📫 How to reach me zeincohen@icloud.com
 
 <!---
