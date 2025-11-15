@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IssacCohen
 - 👀 I’m interested in Hunting
-- 🌱 I’m currently in IT learning 
-- 📫 How to reach me zeincohen@icloud.com
+- 🌱 I’m currently in IT Software engineering 
+- 📫 How to reach me ouzoumarta@icloud.com
 
 <!---
 IssacCohen/IssacCohen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
