@@ -1,36 +1,36 @@
-
-
 # 👋 Hi, I'm Ishak (aka IssacCohen)
 
 💻 IT Software Engineer  
-🌍 Working from everywhere  
-📍 Casablanca, Morocco  
+🔐 Cybersecurity & Data Analytics Enthusiast  
+🌍 Working remotely | 📍 Casablanca, Morocco  
 
 ---
 
 ## 🚀 About Me
-- IT Software Engineer with strong interest in **Cybersecurity** and **Data Analytics**
-- Passionate about system-level programming, secure systems, and problem solving
-- Curious by nature, always learning and improving my technical skills  
+I’m an IT Software Engineer with a strong foundation in **computer science**,  
+and a growing focus on **Cybersecurity** and **Data Analytics**.
+
+I enjoy building systems, understanding how things work under the hood,  
+and writing secure, efficient, and maintainable code.
 
 ---
 
 ## 🛠 Tech Stack & Interests
 
-### 🔹 Programming & Computer Science
+### 🔹 Programming & CS
 - C, Python, JavaScript  
 - Data Structures & Algorithms  
 - Binary Trees, Linked Lists  
 
 ### 🔹 Cybersecurity
 - Linux fundamentals & system security  
-- Secure coding practices and vulnerability awareness  
-- Interest in penetration testing and defensive security  
+- Secure coding practices  
+- Interest in penetration testing & defensive security  
 
 ### 🔹 Data Analytics
-- Data analysis using Python  
-- Data cleaning, basic visualization, and exploration  
-- Turning data into useful insights  
+- Data analysis with Python  
+- Data cleaning & exploration  
+- Basic data visualization & insights  
 
 ---
 
@@ -39,20 +39,20 @@
 ### 🏠 AirBnB Clone v2
 **Repository:** `AirBnB_clone_v2`  
 - Full-stack web application inspired by Airbnb  
-- Backend development focusing on data models, APIs, and storage systems  
-- Experience with system design, databases, and collaborative development  
+- Backend development with APIs, data models, and storage  
+- Experience with system design and team collaboration  
 
-**Skills:** Python, Backend Development, REST APIs, Databases, Git  
+**Tech:** Python, REST APIs, Databases, Git  
 
 ---
 
 ### 🏦 BBVA Script 24 (Private)
 **Repository:** `bbva.script.24`  
 - Project developed in the context of **BBVA Spark**  
-- Focus on automation, scripting, and data processing  
-- Exposure to enterprise and financial environments with security awareness  
+- Automation and scripting with data processing  
+- Exposure to enterprise and financial environments  
 
-**Skills:** Automation, Scripting, Data Handling, Security Awareness  
+**Tech:** Automation, Scripting, Data Handling, Security Awareness  
 
 ---
 
@@ -62,12 +62,11 @@
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IssacCohen&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IssacCohen&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Contact
-📧 ouzoumarta@icloud.com/gmail.com/outlook.com
-
-
-__________________________________________________________
-<!---
-IssacCohen/IssacCohen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 ouzoumarta@icloud.com
